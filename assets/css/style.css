@@ -1,0 +1,261 @@
+body {
+    direction: rtl;
+}
+.burger{
+    color: gray;
+}
+.w3-top {
+    top: 0;
+    background: white;
+}
+section.second{
+    background-color: cadetblue;
+    height: 600px;
+}
+section.second .w3-quarter p{
+    text-align: left;
+}
+section.second .w3-quarter h3{
+    text-align: left;
+    font-weight: bolder;
+}
+section.second .w3-quarter i{
+    font-size: 50px;
+    color: white;
+    background: cadetblue;
+    padding: 10px;
+    border-radius: 50%;
+}
+section.second .w3-quarter{
+    width: 22%;
+    height: 300px;
+    background: white;
+    padding: 20px !important;
+    border-radius: 15px;
+    margin: 10px;
+}
+div#features {
+    position: relative;
+    top: -150px;
+}
+section.third{
+    background-color: rgba(239, 239, 239, 0.73);
+    height: 400px;
+}
+div#content{
+    position: relative;
+    top: -250px;
+}
+section.third h1{
+    color: white;
+    font-weight: bolder;
+}
+section.third p.font-white{
+    color: white;
+}
+section.third .w3-quarter{
+    width: 30%;
+    background: white;
+    padding: 20px !important;
+    border-radius: 15px;
+    margin: 10px;
+}
+section.third .w3-quarter h3{
+    color: cadetblue;
+    font-weight: bolder;
+}
+section.third .w3-quarter img{
+    border-radius: 15px;
+}
+section.third .w3-quarter p{
+    color: cadetblue;
+}
+section.third .w3-quarter a{
+    color: gray;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 1px solid cadetblue;
+}
+section.third .w3-quarter a:hover, section.third .w3-quarter a:active{
+    color: gray;
+    font-weight: bold;
+    text-decoration: none;
+}
+section.fourth img{
+    position: relative;
+    top: -100px;
+}
+section.fourth .w3-half.float-right{
+    text-align: left;
+}
+section.fourth .w3-half.float-left{
+    text-align: right;
+}
+section.fourth .w3-half h1{
+    font-weight: bolder;
+}
+section.fourth .w3-half p.font-gray{
+    color: gray !important;
+}
+.contact-btn{
+    background-color: cadetblue;
+    padding: 10px 25px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+}
+#services{
+    position: relative;
+    top: -70px;
+}
+.pt-30{
+    padding-bottom: 30px;
+}
+section.fifth{
+    background-color: rgba(239, 239, 239, 0.73);
+    height: 400px;
+}
+.fifth h1{
+    text-align: right;
+    font-weight: bolder;
+}
+section.sixth{
+    background-color: cadetblue;
+    height: 200px;
+}
+section.seventh{
+    background-color: rgba(239, 239, 239, 0.73);
+    height: 400px;
+}
+section.sixth .w3-quarter, section.seventh .w3-quarter{
+    text-align: left;
+    width: 22%;
+    height: 250px;
+    background: white;
+    padding: 20px !important;
+    border-radius: 15px;
+    margin: 10px;
+}
+section.sixth .w3-quarter h3, section.seventh .w3-quarter h3{
+    font-weight: bolder;
+    font-size: 22px;
+}
+section.sixth .w3-quarter a, section.sixth .w3-quarter a:hover, section.sixth .w3-quarter a:active,
+section.seventh .w3-quarter a, section.seventh .w3-quarter a:hover, section.seventh .w3-quarter a:active{
+    color: gray;
+    border-bottom: 1px solid cadetblue;
+    text-decoration: none;
+}
+section.eighth h1{
+    font-weight: bolder;
+}
+span.blue{
+    font-size: 18px;
+    font-weight: bolder;
+    margin-left: 10px;
+    text-align: left;
+    float: left;
+    display: inline-block;
+    padding: 15px 0px;
+    color: cadetblue;
+}
+section.eighth .w3-half p{
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+}
+.pb-3{
+    padding-bottom: 30px;
+}
+.pb-5{
+    padding-bottom: 50px !important;
+}
+section.ninth{
+    background-color: rgba(239, 239, 239, 0.73);
+}
+section.ninth .w3-main.w3-content.w3-padding{
+    padding: 100px !important;
+}
+section.ninth .w3-quarter {
+    width: 33.3%;
+    height: 250px;
+    text-align: left;
+}
+.p-2{
+    padding: 20px !important;
+}
+section.ninth .w3-quarter img{
+    width: 100%;
+}
+.w3-quarter.text{
+    background: white;
+}
+.p-0{
+    padding: 0px !important;
+}
+span.left{
+    font-size: 22px;
+    font-weight: bolder;
+    margin-left: 10px;
+    text-align: left;
+    float: left;
+    display: inline-block;
+    background: cadetblue;
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 50%;
+}
+span.left i{
+    color: white;
+}
+p.small{
+    width: 20%;
+    float: left;
+}
+div.big{
+    width: 80%;
+    float: right;
+    text-align: left;
+}
+.pt-5{
+    padding-top: 50px !important;
+}
+section.eleventh{
+    background-color: rgba(239, 239, 239, 0.73);
+}
+.font-14{
+    font-size: 14px;
+}
+.text-left{
+    direction: ltr;
+}
+.font-gray{
+    color: gray !important;
+}
+form.ticket input{
+    background: white;
+    width: 100%;
+    margin: 10px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+}
+form.ticket input::placeholder{
+    text-align: left;
+    padding-left: 20px;
+}
+form.ticket textarea{
+    background: white;
+    width: 100%;
+    margin: 10px;
+    height: 100px;
+    border-radius: 15px;
+    border: none;
+    padding-left: 20px;
+    text-align: left;
+}
+form.ticket input[type=submit]{
+    background: cadetblue;
+    color: white;
+}
